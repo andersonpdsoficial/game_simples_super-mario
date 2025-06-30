@@ -2,6 +2,8 @@
 
 <p>Este é um jogo simples do Super Mario feito com HTML, CSS e JavaScript. O objetivo do jogo é pular sobre os canos que se movem para cima e evitar colidir com eles. O jogador ganha pontos a cada cano que passa e pode coletar power-ups para ganhar vidas extras.</p>
 
+https://versao-basica-supermario-apds.netlify.app/
+
 ## Como jogar
 
 <p>Use a tecla de espaço para pular. Tente pular sobre os canos e evite colidir com eles. Colete power-ups para ganhar vidas extras. O jogo acaba quando o jogador colide com um cano.</p>
